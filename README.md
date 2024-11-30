@@ -1,2 +1,0 @@
-# kakajava
-Learning Java
