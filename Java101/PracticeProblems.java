@@ -12,6 +12,7 @@ public class PracticeProblems {
     //practice question 2
     public static int[] reverseArray (int[] arr){
          int[] reversed = new int[] {arr.length};
+         // 1,2,3,4,5
 
         for (int i = 0; i < arr.length; i++) {
             reversed[i] = arr[arr.length - 1 - i];
